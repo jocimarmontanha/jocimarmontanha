@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem-Vindo ao meu Perfil 🖤 👋
 
-<!--
-**jocimarmontanha/jocimarmontanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jocimar Montanha.
+- Sou Professor de Tecnologia da EE Engº Isac Pereira Garcez. Utilizo o [Alura](https://www.alura.com)
+- Estou desenvolvendo, juntamente com meus alunos, projetos nas plataformas Scratch e P5Js (JavaScript).
+- Utilizo este espaço para minha organização e compartilhamento dos projetos desenvolvidos.
 
-Here are some ideas to get you started:
+ ### Você pode entrar em contato comigo 📧
+ 
+ jocimarmontanha@professor.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![](https://media.tenor.com/jRGtkPd1V_YAAAAM/guitar-fire.gif)
+ 
