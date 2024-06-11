@@ -7,7 +7,7 @@ Meu nome é Jocimar Montanha.
 
  ### Você pode entrar em contato comigo 📧
  
- jocimarmontanha@professor.educacao.sp.gov.br
+ jocimarmontanha@prof.educacao.sp.gov.br
 
  ![](https://media.tenor.com/jRGtkPd1V_YAAAAM/guitar-fire.gif)
  
